@@ -1,0 +1,11 @@
+{
+    "name": "Email Filters",
+    "version": "1.0.0",
+    "type": "extension",
+    "acceptableVersions": [
+        ">=7.0.0"
+    ],
+    "releaseDate": "10.09.2022",
+    "author": "Andrew Fontana",
+    "description": "Read/Unread and Important/Not Important Filters for Email."
+}
