@@ -1,0 +1,20 @@
+{
+    "filterList": [
+      {
+        "name": "Read",
+        "style": "success"
+      },
+      {
+          "name": "Unread",
+          "style": "danger"
+      },
+      {
+        "name": "Important",
+        "style": "warning"
+      },
+      {
+        "name": "Not Important",
+        "style": "primary"
+      }
+  ]
+}

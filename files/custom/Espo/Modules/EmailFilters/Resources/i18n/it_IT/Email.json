@@ -1,0 +1,8 @@
+{
+    "presetFilters": {
+        "Read": "Letto",
+        "Unread": "Non Letto",
+        "Important": "Importante",
+        "Not Important": "Non Importante"
+    }
+}
