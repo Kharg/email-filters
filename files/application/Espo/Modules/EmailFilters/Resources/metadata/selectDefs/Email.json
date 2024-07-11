@@ -1,8 +1,0 @@
-{
-       "primaryFilterClassNameMap": {
-              "Unread": "Espo\\Modules\\EmailFilters\\Classes\\Select\\PrimaryFilters\\Unread",
-              "Read": "Espo\\Modules\\EmailFilters\\Classes\\Select\\PrimaryFilters\\Read",
-              "Important": "Espo\\Modules\\EmailFilters\\Classes\\Select\\PrimaryFilters\\Important",
-              "Not Important": "Espo\\Modules\\EmailFilters\\Classes\\Select\\PrimaryFilters\\NotImportant"
-        }
-}
